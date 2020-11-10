@@ -18,5 +18,3 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/9min
-    - title: wedding-invitation
-      href: https://9min.github.io/wedding-invitation/
