@@ -22,5 +22,13 @@
     "status": "down",
     "uptime": "100.00",
     "time": 0
+  },
+  {
+    "name": "localhost",
+    "url": "http://localhost:8080/",
+    "slug": "localhost",
+    "status": "down",
+    "uptime": "16.79",
+    "time": 0
   }
 ]
