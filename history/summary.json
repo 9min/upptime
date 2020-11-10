@@ -5,12 +5,20 @@
     "slug": "wedding-invitation",
     "status": "up",
     "uptime": "100.00",
-    "time": 154
+    "time": 105
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 494
+  },
+  {
+    "name": "Broken Site",
+    "url": "https://gumin123.co.kr",
+    "slug": "broken-site",
     "status": "down",
     "uptime": "100.00",
     "time": 0
