@@ -1,8 +1,5 @@
-# Change these first
-owner: 9min # Your GitHub username
-repo: upptime # Your Github repository name
-
-# Add your sites here
+owner: 9min
+repo: upptime
 sites:
   - name: wedding-invitation
     url: https://9min.github.io/wedding-invitation/
@@ -10,11 +7,9 @@ sites:
     url: $SECRET_SITE
   - name: Broken Site
     url: https://gumin123.co.kr
-
+assignees:
+  - 9min
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 9min's status
@@ -25,6 +20,3 @@ status-website:
       href: https://github.com/9min
     - title: wedding-invitation
       href: https://9min.github.io/wedding-invitation/
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
