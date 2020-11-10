@@ -11,9 +11,9 @@
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 627
+    "time": 637
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "https://jira.daumkakao.com/",
     "slug": "jira",
     "status": "down",
-    "uptime": "0.25",
+    "uptime": "0.24",
     "time": 0
   }
 ]
