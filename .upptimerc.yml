@@ -7,6 +7,8 @@ sites:
     url: $SECRET_SITE
   - name: Broken Site
     url: https://gumin123.co.kr
+  - name: localhost
+    url: http://localhost:8080/
 assignees:
   - 9min
 status-website:
