@@ -21,6 +21,8 @@ status-website:
   introTitle: 9min's site status
   introMessage: This is a 9min's site status page
   navbar:
+    - title: GitHub
+      href: https://github.com/9min
     - title: wedding-invitation
       href: https://9min.github.io/wedding-invitation/
 
