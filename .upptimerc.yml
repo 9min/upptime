@@ -8,6 +8,8 @@ sites:
     url: https://9min.github.io/wedding-invitation/
   - name: Secret Site
     url: $SECRET_SITE
+  - name: Broken Site
+    url: https://gumin123.co.kr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
