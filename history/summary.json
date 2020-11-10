@@ -5,7 +5,7 @@
     "slug": "wedding-invitation",
     "status": "up",
     "uptime": "100.00",
-    "time": 104
+    "time": 100
   },
   {
     "name": "Secret Site",
@@ -13,7 +13,7 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 668
+    "time": 676
   },
   {
     "name": "Broken Site",
@@ -24,11 +24,19 @@
     "time": 0
   },
   {
-    "name": "localhost",
-    "url": "http://localhost:8080/",
-    "slug": "localhost",
+    "name": "Agit",
+    "url": "https://kakaomobility.agit.in/",
+    "slug": "agit",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1432
+  },
+  {
+    "name": "Jira",
+    "url": "https://jira.daumkakao.com/",
+    "slug": "jira",
     "status": "down",
-    "uptime": "16.79",
+    "uptime": "88.65",
     "time": 0
   }
 ]
