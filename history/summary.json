@@ -1,11 +1,19 @@
 [
   {
-    "name": "wedding-invitation",
+    "name": "9min-wedding-invitation",
     "url": "https://9min.github.io/wedding-invitation/",
-    "slug": "wedding-invitation",
+    "slug": "9min-wedding-invitation",
     "status": "up",
     "uptime": "100.00",
-    "time": 94
+    "time": 105
+  },
+  {
+    "name": "joohee-wedding-invitation",
+    "url": "https://joohee0928.github.io/wedding-invitation/",
+    "slug": "joohee-wedding-invitation",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 105
   },
   {
     "name": "Secret Site",
@@ -13,30 +21,6 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 646
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://gumin123.co.kr",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Agit",
-    "url": "https://kakaomobility.agit.in/",
-    "slug": "agit",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1497
-  },
-  {
-    "name": "Jira",
-    "url": "https://jira.daumkakao.com/",
-    "slug": "jira",
-    "status": "down",
-    "uptime": "0.04",
-    "time": 0
+    "time": 653
   }
 ]
