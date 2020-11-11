@@ -5,7 +5,7 @@
     "slug": "wedding-invitation",
     "status": "up",
     "uptime": "100.00",
-    "time": 100
+    "time": 94
   },
   {
     "name": "Secret Site",
@@ -13,7 +13,7 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 637
+    "time": 646
   },
   {
     "name": "Broken Site",
@@ -29,14 +29,14 @@
     "slug": "agit",
     "status": "up",
     "uptime": "100.00",
-    "time": 1432
+    "time": 1497
   },
   {
     "name": "Jira",
     "url": "https://jira.daumkakao.com/",
     "slug": "jira",
     "status": "down",
-    "uptime": "0.24",
+    "uptime": "0.04",
     "time": 0
   }
 ]
