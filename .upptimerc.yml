@@ -1,9 +1,9 @@
 owner: 9min
 repo: upptime
 sites:
-  - name: [9min] wedding-invitation
+  - name: 9min-wedding-invitation
     url: https://9min.github.io/wedding-invitation/
-  - name: [joohee] wedding-invitation
+  - name: joohee-wedding-invitation
     url: https://joohee0928.github.io/wedding-invitation/
   - name: Secret Site
     url: $SECRET_SITE
