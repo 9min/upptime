@@ -5,7 +5,7 @@
     "slug": "9min-wedding-invitation",
     "status": "up",
     "uptime": "100.00",
-    "time": 106
+    "time": 103
   },
   {
     "name": "joohee-wedding-invitation",
@@ -13,7 +13,7 @@
     "slug": "joohee-wedding-invitation",
     "status": "up",
     "uptime": "100.00",
-    "time": 69
+    "time": 71
   },
   {
     "name": "Secret Site",
@@ -21,6 +21,6 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 659
+    "time": 663
   }
 ]
