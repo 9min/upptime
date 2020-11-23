@@ -4,23 +4,23 @@
     "url": "https://9min.github.io/wedding-invitation/",
     "slug": "9min-wedding-invitation",
     "status": "up",
-    "uptime": "100.00",
-    "time": 110
+    "uptime": "100.00%",
+    "time": 115
   },
   {
     "name": "joohee-wedding-invitation",
     "url": "https://joohee0928.github.io/wedding-invitation/",
     "slug": "joohee-wedding-invitation",
     "status": "up",
-    "uptime": "100.00",
-    "time": 74
+    "uptime": "100.00%",
+    "time": 81
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "100.00",
-    "time": 660
+    "uptime": "100.00%",
+    "time": 661
   }
 ]
