@@ -1,6 +1,8 @@
 owner: 9min
 repo: upptime
 sites:
+  - name: stock-streaming-viewer
+    url: https://9min.github.io/stock-streaming-viewer/
   - name: 9min-wedding-invitation
     url: https://9min.github.io/wedding-invitation/
   - name: joohee-wedding-invitation
