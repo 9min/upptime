@@ -51,16 +51,16 @@
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 814,
-    "timeWeek": 775,
-    "timeMonth": 781,
-    "timeYear": 781
+    "time": 778,
+    "timeDay": 768,
+    "timeWeek": 764,
+    "timeMonth": 778,
+    "timeYear": 778
   }
 ]
