@@ -1,11 +1,19 @@
 [
   {
+    "name": "stock-streaming-viewer",
+    "url": "https://9min.github.io/stock-streaming-viewer/",
+    "slug": "stock-streaming-viewer",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 224
+  },
+  {
     "name": "9min-wedding-invitation",
     "url": "https://9min.github.io/wedding-invitation/",
     "slug": "9min-wedding-invitation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 124
+    "time": 121
   },
   {
     "name": "joohee-wedding-invitation",
@@ -13,7 +21,7 @@
     "slug": "joohee-wedding-invitation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 101
+    "time": 105
   },
   {
     "name": "Secret Site",
@@ -21,6 +29,6 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 689
+    "time": 690
   }
 ]
