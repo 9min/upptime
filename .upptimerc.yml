@@ -1,8 +1,6 @@
 owner: 9min
 repo: upptime
 sites:
-  - name: error-test
-    url: https://9min.github.io/test/
   - name: stock-streaming-viewer
     url: https://9min.github.io/stock-streaming-viewer/
   - name: 9min-wedding-invitation
@@ -22,6 +20,3 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/9min
-notifications:
-  - type: slack
-    channel: C01C9339N0N
