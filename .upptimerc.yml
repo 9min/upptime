@@ -25,7 +25,3 @@ status-website:
 notifications:
   - type: slack
     channel: C01C9339N0N
-env:
-  NOTIFICATION_SLACK: true
-  NOTIFICATION_SLACK_WEBHOOK: true
-  NOTIFICATION_SLACK_WEBHOOK_URL: $NOTIFICATION_SLACK_WEBHOOK_URL
